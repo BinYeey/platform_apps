@@ -1,4 +1,4 @@
-# About "platform_apps" of Venas Blockchain System Platform
+### About "platform_apps" of Venas Blockchain System Platform
 
 Platform Apps of Venas Blockchain System Platform that Naves Developer team provided.  
 
@@ -8,7 +8,7 @@ Platform Apps of Venas Blockchain System Platform that Naves Developer team prov
 -----
 
 
-# 关于Venas区块链系统平台的"platform_apps"
+### 关于Venas区块链系统平台的"platform_apps"
 
 Venas开发团队提供的平台应用程序，您可选择并安装。
 
